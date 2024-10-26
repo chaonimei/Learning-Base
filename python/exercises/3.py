@@ -12,6 +12,10 @@ if a%2==0 :
     i = a+1
 else :
     i = a
+while i <= b :
+        i += 2 + i
+else :
+        print(i)
 
 
 
