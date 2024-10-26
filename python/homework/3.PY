@@ -8,14 +8,6 @@ b = int()
 
 import numpy
 
-# while循环
-a % 2 = y
-
-
-if y = 0 :
-    i = a
-    j = 0
-    while i <= b :
-        j =
+# 
 
 
