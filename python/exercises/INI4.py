@@ -3,19 +3,21 @@
 
 # 定义a,b
 
-a = int(3)
-b = int(5)
+a = int(4164)
+b = int(8386)
 
-# whiile循环
+# while循环
 
-if a%2==0 :
-    i = a+1
-else :
-    i = a
+i = a 
+x = 0
 while i <= b :
-        i += 2 + i
+    if i%2==1 :
+        x += i
+        i += 1
+    else :
+        i += 1
 else :
-        print(i)
+    print(x)
 
 
 
