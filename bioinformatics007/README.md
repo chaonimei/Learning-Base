@@ -5,11 +5,11 @@
 
 ## 服务器使用
 
-基本配置是8G内存+0.5T硬盘(配置不达标问题也不大)，系统可以是ubuntu,centos等**linux系统**，或者 **MAC**，或者改进版的Windows系统。
+基本配置是8G内存+0.5T硬盘(配置不达标问题也不大)，系统可以是~~ubuntu（相当不推荐）~~,debian,centos,~~Arch Linux~~等**linux系统**，或者 **MAC**，或者改进版的Windows系统。
 
 #### linux系统
 
-建议使用debian
+Linux系统很少有人作为主力系统。若选择，建议使用debian。
 
 #### MAC系统
 
